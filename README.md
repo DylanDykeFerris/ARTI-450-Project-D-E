@@ -109,10 +109,17 @@ All results below use the same held-out test set of 38,303 original records. Pre
 ## Team Members and Contributions
 
 **Dylan Dyke**
+
 -Model Development
+
 -Model Comparison
+
 -Review of Data Preprocessing and Exploratory Data Analysis
+
 **Eddie Henry**
+
 -Data Preprocessing
+
 -Exploratory Data Analysis
+
 -Review of Model Development and Comparison
