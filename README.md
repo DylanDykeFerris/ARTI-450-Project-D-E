@@ -106,6 +106,13 @@ All results below use the same held-out test set of 38,303 original records. Pre
 - Neither MLP outperformed the traditional models on F1-score.
 - Recall-focused Logistic Regression tuning increased recall from 69.22% to 70.62%, while accuracy, precision, and F1 decreased.
 
-## Team Members
+## Team Members and Contributions
 
-**Dylan Dyke and Eddie Henry**
+**Dylan Dyke**
+-Model Development
+-Model Comparison
+-Review of Data Preprocessing and Exploratory Data Analysis
+**Eddie Henry**
+-Data Preprocessing
+-Exploratory Data Analysis
+-Review of Model Development and Comparison
